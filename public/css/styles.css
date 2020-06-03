@@ -1,0 +1,42 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Permanent Marker', cursive; */
+
+html {
+    background-color: #a7ffeb;
+    background-image: -webkit-linear-gradient(65deg, #1de9b6 50%, #a7ffeb 50%);
+    min-height: 100%;
+}
+
+nav .brand-logo{
+    font-family: 'Permanent Marker', cursive;
+    padding-left: 20%;
+}
+
+.login{
+    padding-right: 20px;
+}
+
+.login button{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.signup{
+    padding-right: 20px;
+}
+
+.nav-right-items{
+    right: 20%;
+    left: 60%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row .col.push-s6 {
+    left: 60%;
+}
+
+}
+
+#mobile-demo{
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
+}
